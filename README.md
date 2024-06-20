@@ -11,3 +11,6 @@ Kelime frekanslarının hesaplanması ve en sık kullanılan kelimelerin belirle
 En sık kullanılan kelimeler için çubuk grafik ve pasta dilimi grafiklerinin oluşturulması.
 En az kullanılan kelimelerin belirlenmesi ve çubuk grafiklerinin oluşturulması.
 Bu kod, Twitter API kullanarak tweetleri çekmek ve metin işleme yöntemlerini kullanarak kelimelerin frekanslarını hesaplamak için rtweet, tm, NLP, stringr ve ggplot2 gibi R paketlerini kullanır.
+Kullanılan Dil : R
+Kullanılan Paketler : rtweet tm NLP stringr ggplot2
+Kullanılan API : X API
